@@ -10,7 +10,8 @@ The skill is useful for building or revising collectible-card animations from su
 
 ## Example files
 
-- index.html is the enhanced animation page. Open it in a modern browser.\n- 12s-golden-card.html preserves the first-round single-file animation preview.
+- index.html is the enhanced animation page. Open it in a modern browser.
+- 12s-golden-card.html preserves the first-round single-file animation preview.
 - 12s-preview.mp4 is the rendered twelve-second animation preview.
 - reference-mechathun.png is the supplied artwork used as the visual and procedural-painting reference.
 
